@@ -1,6 +1,6 @@
 # 💫 About Me:
 Full Stack & Python Developer | Creator of VenzAI.tech 
->>> “Program your own life with your own codes.” — Me<br>Crafting scalable web applications and seamless automation with a keen eye for modern UI/UX design.<br>Mumbai, India📍 
+> “Program your own life with your own codes.” — Me<br>Crafting scalable web applications and seamless automation with a keen eye for modern UI/UX design.<br>Mumbai, India📍 
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@ Full Stack & Python Developer | Creator of VenzAI.tech
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YashShinde024&icon=7&color=8)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yashshinde024) 
 
