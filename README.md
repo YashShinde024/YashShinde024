@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack & Python Developer | Creator of VenzAI.tech 
+Full Stack & Python Developer | Founder of Nyxen 
 > “Program your own life with your own codes.” — Me<br>Crafting scalable web applications and seamless automation with a keen eye for modern UI/UX design.<br>Mumbai, India📍 
 
 # 💻 Tech Stack:
