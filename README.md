@@ -6,5 +6,5 @@ Full Stack & Python Developer | Founder of Nyxen
 
 ---
   ## 💰 You can help me by Donating
-  [![ThankYouVeryMuch](https://pngtree.com/freepng/heart-icon_18759059.html)](https://www.thankyouverymuch.co/yash) 
+  [![ThankYouVeryMuch]](https://www.thankyouverymuch.co/yash) 
 
