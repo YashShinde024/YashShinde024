@@ -1,95 +1,103 @@
-<!-- ========================================================= -->
-<!--                     YASH SHINDE README                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 # Yash Shinde
 
 ### Full Stack Python Developer • Founder @ Nyxen
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Privacy-first+AI+Products.;FastAPI+%7C+Next.js+%7C+Python.;Turning+Ideas+into+Products.;Program+your+own+life+with+your+own+codes." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Privacy-first+AI+Products.;Founder+%40+Nyxen.;Python+%7C+FastAPI+%7C+Next.js.;Turning+Ideas+into+Products.;Program+your+own+life+with+your+own+codes." alt="Typing SVG"/>
 
 <br>
 
-> *"Program your own life with your own codes."*
+<a href="https://yashshinde.is-a.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://nyxen.in">
+<img src="https://img.shields.io/badge/Nyxen-111111?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YashShinde024">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-```text
+<div align="center">
+
+> **"Program your own life with your own codes."**
+
+</div>
+
+---
+
+##  About Me
+
+```bash
 Last login: Today
 
 yash@github ~ % whoami
-
 Yash Shinde
 
-────────────────────────────────────────────
+yash@github ~ % role
+Full Stack Python Developer
 
-Role        → Full Stack Python Developer
+yash@github ~ % company
+Founder @ Nyxen
 
-Company     → Founder @ Nyxen
+yash@github ~ % mission
+Building privacy-first AI products.
 
-Mission     → Building privacy-first AI products
+yash@github ~ % currently_building
+Nyxen
+NyChat
+VenzAI
 
-Current     → Nyxen • NyChat • VenzAI
-
-Learning    → Distributed Systems • AI
-
-Status      → Shipping...
+yash@github ~ % status
+Always shipping.
 ```
 
 ---
 
-# About
-
-I build software that solves real-world problems.
-
-My focus is creating scalable backend systems, modern web applications, and privacy-first AI products.
-
-Currently building **Nyxen**, an ecosystem focused on creating useful software with simplicity, performance, and user privacy at its core.
-
----
-
-# Products
+## Building
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-## Nyxen
+### Nyxen
 
-Building modern software.
+Building software that empowers creators and developers.
 
 **Innovate. Build. Empower.**
 
+<a href="https://nyxen.in">Visit →</a>
+
 </td>
 
 <td width="33%" align="center">
 
-## NyChat
+### NyChat
 
-Anonymous conversations.
+Privacy-first anonymous chat platform.
 
 No login.
 
-Privacy First.
+No tracking.
+
+<a href="https://nychat.nyxen.in">Visit →</a>
 
 </td>
 
 <td width="33%" align="center">
 
-## VenzAI
+### VenzAI
 
-AI-powered productivity tools.
+AI-powered productivity tools built for everyone.
 
-Fast.
-
-Simple.
-
-Reliable.
+<a href="https://venzai.tech">Visit →</a>
 
 </td>
 
@@ -124,7 +132,7 @@ Reliable.
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase"/>
 </p>
 
-### DevOps & Cloud
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,github,vercel,cloudflare"/>
@@ -132,7 +140,7 @@ Reliable.
 
 ---
 
-# Current Focus
+## Current Focus
 
 ```python
 class Yash:
@@ -148,102 +156,103 @@ class Yash:
     ]
 
     learning = [
-        "System Design",
         "Distributed Systems",
-        "Artificial Intelligence"
+        "AI Engineering",
+        "System Design"
     ]
 
-    mission = "Build products people love while respecting privacy."
+    mission = "Create software that respects privacy and scales beautifully."
 ```
 
 ---
 
-# GitHub Activity
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashShinde024&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashshinde024&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashShinde024&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashShinde024&layout=compact&hide_border=true&theme=github_dark"/>
 
 </p>
 
 ---
 
-# Contributions
+## Contribution Snake
+
+> Enable the Snake GitHub Action in your profile repository.
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/yashshinde024/yashshinde024/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
-> **Note:** You'll need to enable a GitHub Action to generate the snake animation automatically.
 
 ---
 
-# ASCII
+## ASCII
 
 ```text
-                  ___________________________
+                 ______________________________
 
-                   Program your own life
-                    with your own codes.
+                  Program your own life with
+                     your own codes.
 
-                  ___________________________
+                 ______________________________
 
-                        \
                          \
-                            .--.
-                           |o_o |
-                           |:_/ |
-                          //   \ \
-                         (|     | )
-                        /'\_   _/`\
-                        \___)=(___/
+                          \
+                             .--.
+                            |o_o |
+                            |:_/ |
+                           //   \ \
+                          (|     | )
+                         /'\_   _/`\
+                         \___)=(___/
 ```
 
 ---
 
-# Philosophy
-
-> Great software isn't built by writing more code.
->
-> It's built by writing the **right** code.
-
----
-
-# Connect
+## Connect
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO">
-Portfolio
-</a>
+<a href="https://yashshinde.is-a.dev">Portfolio</a> •
+<a href="https://www.linkedin.com/in/yashshinde024/">LinkedIn</a> •
+<a href="https://x.com/yash_shinde_024">X</a> •
+<a href="https://instagram.com/buildnyxen">Instagram</a> •
+<a href="mailto:hello@nyxen.in">Email</a>
 
-•
+</p>
 
-<a href="YOUR_LINKEDIN">
-LinkedIn
-</a>
+---
 
-•
+## Support My Work
 
-<a href="YOUR_X">
-X
-</a>
+<p align="center">
 
-•
+If you like what I'm building and want to support my journey, you can buy me a coffee.
 
-<a href="YOUR_INSTAGRAM">
-Instagram
-</a>
+<br><br>
 
-•
-
-<a href="mailto:YOUR_EMAIL">
-Email
+<a href="https://buymeacoffee.com/thankyouverymuch/yash">
+<img src="https://img.shields.io/badge/☕_Support_My_Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000"/>
 </a>
 
 </p>
+
+---
+
+## Philosophy
+
+> **Great software isn't built by writing more code.**  
+> It's built by writing the **right** code.
 
 ---
 
@@ -254,5 +263,9 @@ Email
 ### Building products with purpose.
 
 ### Building the future with Python.
+
+<br>
+
+**Portfolio** → https://yashshinde.is-a.dev
 
 </div>
