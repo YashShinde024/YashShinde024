@@ -180,8 +180,6 @@ If you enjoy my work and would like to support the projects I'm building, I'd tr
   <b>Building privacy-first products with modern web technologies.</b>
 </p>
 
----
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090909,50:1A1A1A,100:090909"/>
 
 </div>
-
