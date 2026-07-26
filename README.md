@@ -37,8 +37,6 @@
 
 ---
 
-<br>
-
 ## About Me
 
 I'm **Yash Shinde**, a **Full Stack Python Developer** and the **Founder of Nyxen**.
@@ -71,125 +69,6 @@ https://yashshinde.is-a.dev
 </a>
 
 </div>
-
-<br>
-
-<!-- ====================================================== -->
-<!--                     PRODUCTS                           -->
-<!-- ====================================================== -->
-
-<h2 align="center">Building the Nyxen Ecosystem</h2>
-
-<p align="center">
-Products focused on privacy, performance, and delightful user experiences.
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-<a href="https://nyxen.in">
-
-<h3>🌌 Nyxen</h3>
-
-</a>
-
-<p>
-
-Building a modern software ecosystem where innovation meets simplicity.
-
-</p>
-
-<br>
-
-<b>Innovate.</b><br>
-<b>Build.</b><br>
-<b>Empower.</b>
-
-<br><br>
-
-<a href="https://nyxen.in">
-View Website →
-</a>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<a href="https://nychat.nyxen.in">
-
-<h3>💬 NyChat</h3>
-
-</a>
-
-<p>
-
-Anonymous conversations with no accounts, no tracking, and privacy by default.
-
-</p>
-
-<br>
-
-Privacy First<br>
-Anonymous<br>
-No Login Required
-
-<br><br>
-
-<a href="https://nychat.nyxen.in">
-Open NyChat →
-</a>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<a href="https://venzai.tech">
-
-<h3>🤖 VenzAI</h3>
-
-</a>
-
-<p>
-
-AI-powered tools that help developers and creators build smarter and faster.
-
-</p>
-
-<br>
-
-AI Powered<br>
-Productivity<br>
-Developer Tools
-
-<br><br>
-
-<a href="https://venzai.tech">
-Explore →
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<p align="center">
-
-<b>Every product is built with the same philosophy:</b>
-
-<br><br>
-
-Performance • Simplicity • Privacy • Quality
-
-</p>
-
----
 
 <!-- ====================================================== -->
 <!--                  TECHNOLOGY STACK                      -->
@@ -308,18 +187,6 @@ Scalable Platforms
 
 ---
 
-<div align="center">
-
-### Building software should feel effortless.
-
-Not because it's easy.
-
-Because it's designed well.
-
-</div>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=2"/>
 
 <!-- ====================================================== -->
@@ -351,35 +218,6 @@ src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github
 
 </p>
 
-> **Note:** This animation requires the GitHub Action from Part 5.
-
----
-
-<!-- ====================================================== -->
-<!--                    PHILOSOPHY                          -->
-<!-- ====================================================== -->
-
-## Philosophy
-
-<div align="center">
-
-> ### **Innovate. Build. Empower.**
-
-Technology should solve meaningful problems, remain accessible, and respect the people who use it.
-
-Every product I create is guided by three principles:
-
-**Simplicity.**  
-Create experiences that feel intuitive.
-
-**Performance.**  
-Fast software creates better experiences.
-
-**Privacy.**  
-Users deserve control over their own data.
-
-</div>
-
 ---
 
 <!-- ====================================================== -->
@@ -394,7 +232,7 @@ If you enjoy my work and would like to support the projects I'm building, I'd tr
 
 <br>
 
-<a href="YOUR_SUPPORT_LINK">
+<a href="http://thankyouverymuch.co/yash">
 
 <img src="https://img.shields.io/badge/❤️%20Support%20My%20Work-111111?style=for-the-badge"/>
 
@@ -410,33 +248,26 @@ If you enjoy my work and would like to support the projects I'm building, I'd tr
 
 ## Connect
 
-<div align="center">
+<div>
 
 <a href="https://yashshinde.is-a.dev">
 <img src="https://skillicons.dev/icons?i=vercel" height="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/YashShinde024">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/yashshinde024">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/buildnyxen">
+<a href="https://instagram.com/yash_shinde_024">
 <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:hello@nyxen.in">
+<a href="mailto:yashshinde@nyxen.in">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
