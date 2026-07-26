@@ -22,9 +22,9 @@
 
 <div align="center">
 
-# Building products that people love.
+### Building products that people love.
 
-# Innovate • Build • Empower
+### Innovate • Build • Empower
 
 > **"Program your own life with your own codes."**
 
