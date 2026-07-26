@@ -35,24 +35,6 @@
 
 </div>
 
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
-
-<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb"/>
-
-</p>
-
 ---
 
 <br>
@@ -92,172 +74,167 @@ https://yashshinde.is-a.dev
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=2"/>
 <!-- ====================================================== -->
-<!--                  PRODUCTS SECTION                      -->
+<!--                     PRODUCTS                           -->
 <!-- ====================================================== -->
 
-## Products
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<h3 align="center">Nyxen</h3>
+<h2 align="center">Building the Nyxen Ecosystem</h2>
 
 <p align="center">
+Products focused on privacy, performance, and delightful user experiences.
+</p>
 
-Building modern software with simplicity,
-innovation and privacy at its core.
+<br>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<a href="https://nyxen.in">
+
+<h3>🌌 Nyxen</h3>
+
+</a>
+
+<p>
+
+Building a modern software ecosystem where innovation meets simplicity.
 
 </p>
 
-<p align="center">
+<br>
+
+<b>Innovate.</b><br>
+<b>Build.</b><br>
+<b>Empower.</b>
+
+<br><br>
 
 <a href="https://nyxen.in">
 View Website →
 </a>
 
-</p>
-
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
-<h3 align="center">NyChat</h3>
+<a href="https://nychat.nyxen.in">
 
-<p align="center">
+<h3>💬 NyChat</h3>
 
-Anonymous conversations.
+</a>
 
-No Login.
+<p>
 
-No Tracking.
-
-Privacy First.
+Anonymous conversations with no accounts, no tracking, and privacy by default.
 
 </p>
 
-<p align="center">
+<br>
+
+Privacy First<br>
+Anonymous<br>
+No Login Required
+
+<br><br>
 
 <a href="https://nychat.nyxen.in">
 Open NyChat →
 </a>
 
-</p>
-
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
-<h3 align="center">VenzAI</h3>
+<a href="https://venzai.tech">
 
-<p align="center">
+<h3>🤖 VenzAI</h3>
 
-AI tools designed to help
-people build faster,
-learn smarter,
-and work better.
+</a>
+
+<p>
+
+AI-powered tools that help developers and creators build smarter and faster.
 
 </p>
 
-<p align="center">
+<br>
+
+AI Powered<br>
+Productivity<br>
+Developer Tools
+
+<br><br>
 
 <a href="https://venzai.tech">
 Explore →
 </a>
 
-</p>
-
 </td>
 
 </tr>
 
 </table>
-
-</div>
 
 <br>
 
----
+<p align="center">
 
-## Technology Stack
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="20%" align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python"/><br><br>
-<img src="https://skillicons.dev/icons?i=js"/><br><br>
-<img src="https://skillicons.dev/icons?i=ts"/><br><br>
-<img src="https://skillicons.dev/icons?i=java"/>
-
-</td>
-
-<td width="20%" align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react"/><br><br>
-<img src="https://skillicons.dev/icons?i=nextjs"/><br><br>
-<img src="https://skillicons.dev/icons?i=tailwind"/><br><br>
-<img src="https://skillicons.dev/icons?i=html"/><br><br>
-<img src="https://skillicons.dev/icons?i=css"/>
-
-</td>
-
-<td width="20%" align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi"/><br><br>
-<img src="https://skillicons.dev/icons?i=django"/><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</td>
-
-<td width="20%" align="center">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres"/><br><br>
-<img src="https://skillicons.dev/icons?i=mysql"/><br><br>
-<img src="https://skillicons.dev/icons?i=mongodb"/><br><br>
-<img src="https://skillicons.dev/icons?i=redis"/><br><br>
-<img src="https://skillicons.dev/icons?i=firebase"/><br><br>
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-</td>
-
-<td width="20%" align="center">
-
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=docker"/><br><br>
-<img src="https://skillicons.dev/icons?i=github"/><br><br>
-<img src="https://skillicons.dev/icons?i=linux"/><br><br>
-<img src="https://skillicons.dev/icons?i=vercel"/><br><br>
-<img src="https://skillicons.dev/icons?i=cloudflare"/>
+<b>Every product is built with the same philosophy:</b>
 
 <br><br>
 
-<b>Render</b>
+Performance • Simplicity • Privacy • Quality
 
-</td>
+</p>
 
-</tr>
+---
 
-</table>
+<!-- ====================================================== -->
+<!--                  TECHNOLOGY STACK                      -->
+<!-- ====================================================== -->
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+Technologies I use to build fast, scalable and privacy-first products.
+</p>
+
+<br>
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs&theme=dark" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,github,linux,vercel,cloudflare&theme=dark" />
+<img src="https://img.shields.io/badge/Render-111111?style=flat-square&logo=render&logoColor=white"/>
+</p>
 
 </div>
 
