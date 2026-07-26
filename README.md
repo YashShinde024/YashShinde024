@@ -24,7 +24,7 @@
 
 # Building products that people love.
 
-### Privacy-first • AI-powered • Open Source
+# Innovate • Build • Empower
 
 > **"Program your own life with your own codes."**
 
