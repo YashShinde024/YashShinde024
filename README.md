@@ -248,25 +248,24 @@ If you enjoy my work and would like to support the projects I'm building, I'd tr
 
 ## Connect
 
-<div>
+<div align="center>
 
-<a href="https://yashshinde.is-a.dev">
-<img src="https://skillicons.dev/icons?i=vercel" height="48"/>
+<a href="https://x.com/yash_shinde_024">
+<img src="https://skillicons.dev/icons?i=X" height="48"/>
 </a>
-
+ |
 <a href="https://github.com/YashShinde024">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
-
+ |
 <a href="https://www.linkedin.com/in/yashshinde024">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
-
+ |
 <a href="https://instagram.com/yash_shinde_024">
 <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
-
-
+ |
 <a href="mailto:yashshinde@nyxen.in">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
