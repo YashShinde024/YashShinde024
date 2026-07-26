@@ -9,21 +9,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=22&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Privacy-first+AI+Products;Founder+of+Nyxen;FastAPI+•+Next.js+•+Python;Shipping+Ideas+Into+Reality;Always+Learning.+Always+Building."/>
-
-<br><br>
-
 <a href="https://yashshinde.is-a.dev">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;
-
 <a href="https://nyxen.in">
 <img src="https://img.shields.io/badge/Nyxen-000000?style=for-the-badge"/>
 </a>
-
-&nbsp;
 
 <a href="https://github.com/YashShinde024">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
