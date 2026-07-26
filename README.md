@@ -1,8 +1,3 @@
-<!-- ====================================================== -->
-<!--               GITHUB PROFILE README                     -->
-<!--                  YASH SHINDE                           -->
-<!-- ====================================================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,24,30&text=Yash%20Shinde&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Python%20Developer%20•%20Founder%20at%20Nyxen&descAlignY=58&descSize=18"/>
@@ -58,29 +53,11 @@ Currently, I'm building the **Nyxen ecosystem**, where every product follows the
 
 <br>
 
-<div align="center">
-
-### 🌐 Portfolio
-
-<a href="https://yashshinde.is-a.dev">
-
-https://yashshinde.is-a.dev
-
-</a>
-
-</div>
-
-<!-- ====================================================== -->
-<!--                  TECHNOLOGY STACK                      -->
-<!-- ====================================================== -->
-
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
 Technologies I use to build fast, scalable and privacy-first products.
 </p>
-
-<br>
 
 <div align="center">
 
@@ -118,80 +95,7 @@ Technologies I use to build fast, scalable and privacy-first products.
 </div>
 
 ---
-
-## What I Enjoy Building
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-Backend Systems
-
-</td>
-
-<td align="center">
-
-Artificial Intelligence
-
-</td>
-
-<td align="center">
-
-Developer Tools
-
-</td>
-
-<td align="center">
-
-Privacy-first Products
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-FastAPI APIs
-
-</td>
-
-<td align="center">
-
-Modern Web Apps
-
-</td>
-
-<td align="center">
-
-Automation
-
-</td>
-
-<td align="center">
-
-Scalable Platforms
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=2"/>
-
-<!-- ====================================================== -->
-<!--                GITHUB ACTIVITY                         -->
-<!-- ====================================================== -->
 
 ## Activity
 
@@ -205,10 +109,6 @@ Scalable Platforms
 
 ---
 
-<!-- ====================================================== -->
-<!--                  CONTRIBUTION SNAKE                    -->
-<!-- ====================================================== -->
-
 ## Contribution Snake
 
 <p align="center">
@@ -219,10 +119,6 @@ src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github
 </p>
 
 ---
-
-<!-- ====================================================== -->
-<!--                     SUPPORT                            -->
-<!-- ====================================================== -->
 
 ## ❤️ Support My Work
 
@@ -246,64 +142,45 @@ If you enjoy my work and would like to support the projects I'm building, I'd tr
 <!--                     CONNECT                            -->
 <!-- ====================================================== -->
 
-## Connect
+<h2 align="center">🤝 Connect With Me</h2>
 
-<div align="center>
-
-<a href="https://x.com/yash_shinde_024">
-<img src="https://skillicons.dev/icons?i=X" height="48"/>
-</a>
- |
-<a href="https://github.com/YashShinde024">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
- |
-<a href="https://www.linkedin.com/in/yashshinde024">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
- |
-<a href="https://instagram.com/yash_shinde_024">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-</a>
- |
-<a href="mailto:yashshinde@nyxen.in">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://x.com/yash_shinde_024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YashShinde024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yashshinde024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/yash_shinde_024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yashshinde@nyxen.in">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
+  </a>
+</p>
 
 <br>
 
-<div align="center">
+<h2 align="center">🌐 Portfolio</h2>
 
-### Portfolio
+<p align="center">
+  <a href="https://yashshinde.is-a.dev">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-yashshinde.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://yashshinde.is-a.dev">
-
-**https://yashshinde.is-a.dev**
-
-</a>
-
-</div>
+<p align="center">
+  <b>Building privacy-first products with modern web technologies.</b>
+</p>
 
 ---
-
-<!-- ====================================================== -->
-<!--                      FOOTER                            -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-## Building software that lasts.
-
-**Full Stack Python Developer**
-
-Founder of **Nyxen**
-
-Privacy-first AI Products.
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090909,50:1A1A1A,100:090909"/>
 
 </div>
