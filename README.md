@@ -1,28 +1,258 @@
-Hi ! My name is Yash Shinde
-====================================================================================================================================
+<!-- ========================================================= -->
+<!--                     YASH SHINDE README                     -->
+<!-- ========================================================= -->
 
-Full Stack Python Developer | Founder of [Nyxen.in](https://nyxen.in/)
--------------------------------------------------
+<div align="center">
 
-* 🌍  I'm based in Mumbai, Maharashtra, India.
-* 💬  “Program your own life with your own codes.” — Me
-* 🖥️  See my portfolio at [yashshinde.is-a.dev](http://yashshinde.is-a.dev)
-* ✉️  You can contact me at [yashshinde@nyxen.in](mailto:yashshinde@nyxen.in)
+# Yash Shinde
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+### Full Stack Python Developer • Founder @ Nyxen
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Privacy-first+AI+Products.;FastAPI+%7C+Next.js+%7C+Python.;Turning+Ideas+into+Products.;Program+your+own+life+with+your+own+codes." alt="Typing SVG"/>
+
+<br>
+
+> *"Program your own life with your own codes."*
+
+</div>
+
+---
+
+```text
+Last login: Today
+
+yash@github ~ % whoami
+
+Yash Shinde
+
+────────────────────────────────────────────
+
+Role        → Full Stack Python Developer
+
+Company     → Founder @ Nyxen
+
+Mission     → Building privacy-first AI products
+
+Current     → Nyxen • NyChat • VenzAI
+
+Learning    → Distributed Systems • AI
+
+Status      → Shipping...
+```
+
+---
+
+# About
+
+I build software that solves real-world problems.
+
+My focus is creating scalable backend systems, modern web applications, and privacy-first AI products.
+
+Currently building **Nyxen**, an ecosystem focused on creating useful software with simplicity, performance, and user privacy at its core.
+
+---
+
+# Products
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## Nyxen
+
+Building modern software.
+
+**Innovate. Build. Empower.**
+
+</td>
+
+<td width="33%" align="center">
+
+## NyChat
+
+Anonymous conversations.
+
+No login.
+
+Privacy First.
+
+</td>
+
+<td width="33%" align="center">
+
+## VenzAI
+
+AI-powered productivity tools.
+
+Fast.
+
+Simple.
+
+Reliable.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java"/>
 </p>
 
-### Socials
+### Frontend
 
-<p align="left"> <a href="https://www.github.com/yashshinde024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/yashshinde024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.x.com/yash_shinde_024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@yash_shinde_024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/yashshinde024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/yashshinde024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.x.com/yash_shinde_024" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yash_shinde_024?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Badges
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
 
-<b>My GitHub Stats</b>
+### Backend
 
-<a href="http://www.github.com/yashshinde024"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashshinde024&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  [![ThankYouVeryMuch]](https://www.thankyouverymuch.co/yash) 
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
+</p>
 
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,github,vercel,cloudflare"/>
+</p>
+
+---
+
+# Current Focus
+
+```python
+class Yash:
+
+    role = "Full Stack Python Developer"
+
+    company = "Nyxen"
+
+    building = [
+        "Nyxen",
+        "NyChat",
+        "VenzAI"
+    ]
+
+    learning = [
+        "System Design",
+        "Distributed Systems",
+        "Artificial Intelligence"
+    ]
+
+    mission = "Build products people love while respecting privacy."
+```
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashshinde024&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/yashshinde024/yashshinde024/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** You'll need to enable a GitHub Action to generate the snake animation automatically.
+
+---
+
+# ASCII
+
+```text
+                  ___________________________
+
+                   Program your own life
+                    with your own codes.
+
+                  ___________________________
+
+                        \
+                         \
+                            .--.
+                           |o_o |
+                           |:_/ |
+                          //   \ \
+                         (|     | )
+                        /'\_   _/`\
+                        \___)=(___/
+```
+
+---
+
+# Philosophy
+
+> Great software isn't built by writing more code.
+>
+> It's built by writing the **right** code.
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO">
+Portfolio
+</a>
+
+•
+
+<a href="YOUR_LINKEDIN">
+LinkedIn
+</a>
+
+•
+
+<a href="YOUR_X">
+X
+</a>
+
+•
+
+<a href="YOUR_INSTAGRAM">
+Instagram
+</a>
+
+•
+
+<a href="mailto:YOUR_EMAIL">
+Email
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Building software with simplicity.
+
+### Building products with purpose.
+
+### Building the future with Python.
+
+</div>
