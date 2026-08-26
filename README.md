@@ -60,112 +60,57 @@ Currently, I'm building the **Nyxen ecosystem**, where every product follows the
 
 ## Tech Stack
 
-<sub>Technologies I use to build fast, scalable and privacy-first products.</sub>
-
-<br><br>
-
-### LANGUAGES
-
-<p>
-<img src="https://cdn.simpleicons.org/python/ffffff" height="34" alt="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/ffffff" height="34" alt="JavaScript"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/ffffff" height="34" alt="TypeScript"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/java/ffffff" height="34" alt="Java"/>
-</p>
-
 <br>
 
-### FRONTEND
-
-<p>
-<img src="https://cdn.simpleicons.org/react/ffffff" height="34" alt="React"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="34" alt="Next.js"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="34" alt="Tailwind CSS"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5/ffffff" height="34" alt="HTML5"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/ffffff" height="34" alt="CSS3"/>
-</p>
-
-<br>
-
-### BACKEND
-
-<p>
-<img src="https://cdn.simpleicons.org/fastapi/ffffff" height="34" alt="FastAPI"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/django/ffffff" height="34" alt="Django"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="34" alt="Node.js"/>
-</p>
-
-<br>
-
-### DATABASES
-
-<p>
-<img src="https://cdn.simpleicons.org/postgresql/ffffff" height="34" alt="PostgreSQL"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql/ffffff" height="34" alt="MySQL"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/ffffff" height="34" alt="MongoDB"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redis/ffffff" height="34" alt="Redis"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/firebase/ffffff" height="34" alt="Firebase"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/supabase/ffffff" height="34" alt="Supabase"/>
-</p>
-
-<br>
-
-### CLOUD & DEVOPS
-
-<p>
-<img src="https://cdn.simpleicons.org/docker/ffffff" height="34" alt="Docker"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/ffffff" height="34" alt="GitHub"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/ffffff" height="34" alt="Linux"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/ffffff" height="34" alt="Vercel"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cloudflare/ffffff" height="34" alt="Cloudflare"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/ffffff" height="34" alt="Render"/>
-</p>
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=2"/>
-
-## Activity
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashShinde024&bg_color=0d1117&color=ffffff&line=8b8b8b&point=ffffff&area=true&area_color=161616&hide_border=true"/>
-
+  Technologies I use to build fast, scalable and privacy-first products.
 </p>
 
 <br>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashShinde024&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9a9a9a&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true"/>
+<h3>Languages</h3>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashShinde024&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9a9a9a"/>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" height="52" />
+</p>
 
 <br>
 
+<h3>Frontend</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="52" />
+</p>
+
+<br>
+
+<h3>Backend</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs&theme=dark" height="52" />
+</p>
+
+<br>
+
+<h3>Databases</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark&perline=6" height="52" />
+</p>
+
+<br>
+
+<h3>Cloud & DevOps</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,vercel,cloudflare&theme=dark" height="52" />
+</p>
+
+</div>
 ---
 
 ## Contribution Snake
