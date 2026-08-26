@@ -2,65 +2,39 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=15&duration=1&pause=100000&color=8A8A8A&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER+%2F+FOUNDER+%2F+PRODUCT+BUILDER" alt="Yash Shinde"/>
-
-# YASH SHINDE
-
-<p>
-Building software where <b>engineering meets obsession for detail.</b>
-</p>
-
-<p>
-<a href="https://yashshinde.is-a.dev">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://nyxen.in">Nyxen</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/YashShinde024">GitHub</a>
-</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6B6B6B"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=090909&text=YASH%20SHINDE&font=Inter&fontColor=F4F4F0&fontSize=72&fontAlignY=42&desc=BUILDER%20%2F%2F%20FOUNDER%20%20·%20%20NYXEN&descAlignY=62&descSize=14&animation=fadeIn"/>
 
 <br>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td align="center" width="33%">
 
-### PROFILE
-
-I'm **Yash Shinde**, a Full Stack Python Developer and the founder of **Nyxen**.
-
-I design and build products from the ground up — from the interface people see to the systems running behind it.
-
-My approach is simple:
-
-**less noise · better systems · better products**
-
-Currently building the **Nyxen ecosystem** with a focus on performance, privacy and thoughtful design.
-
-</td>
-
-<td width="42%" valign="top">
-
-### PRINCIPLES
-
-`01` Build with intention
-
-`02` Obsess over details
-
-`03` Keep systems simple
-
-`04` Respect the user's time
-
-`05` Ship, learn, refine
+<sub>BASED AROUND</sub>
 
 <br>
 
-<sub>“Program your own life with your own codes.”</sub>
+<b>SOFTWARE</b>
+
+</td>
+
+<td align="center" width="33%">
+
+<sub>BUILDING</sub>
+
+<br>
+
+<b>NYXEN</b>
+
+</td>
+
+<td align="center" width="33%">
+
+<sub>FOCUS</sub>
+
+<br>
+
+<b>PRODUCTS</b>
 
 </td>
 </tr>
@@ -68,39 +42,129 @@ Currently building the **Nyxen ecosystem** with a focus on performance, privacy 
 
 <br>
 
-## TECHNOLOGIES
+<a href="https://yashshinde.is-a.dev">
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-F4F4F0?style=for-the-badge&labelColor=F4F4F0&color=F4F4F0"/>
+</a>
+
+  
+
+<a href="https://nyxen.in">
+<img src="https://img.shields.io/badge/ENTER%20NYXEN-181818?style=for-the-badge&labelColor=181818&color=181818"/>
+</a>
+
+<br><br>
+
+<sub>
+FULL STACK PYTHON DEVELOPER · PRODUCT BUILDER · FOUNDER
+</sub>
+
+</div>
+
+<br>
+
+---
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python/ffffff" height="30"/>
+# BUILDING WITH INTENTION.
+
+<p>
+I build software from the first idea to the final pixel.
+<br>
+Systems, interfaces, infrastructure and everything between.
+</p>
+
+<br>
+
+**PERFORMANCE**   /   **PRIVACY**   /   **SIMPLICITY**   /   **DETAIL**
+
+<br><br>
+
+<sub>“Program your own life with your own codes.”</sub>
+
+</div>
+
+<br>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### THE BUILDER
+
+I'm **Yash Shinde** — a Full Stack Python Developer and founder of **Nyxen**.
+
+I like turning ambitious ideas into products that feel simple on the surface and carefully engineered underneath.
+
+I care about the details most people never notice:
+
+interface rhythm, response time, architecture, reliability, and the feeling a product leaves behind.
+
+</td>
+
+<td width="50%" valign="top">
+
+### THE PHILOSOPHY
+
+```text
+01  Make it useful.
+02  Make it fast.
+03  Make it beautiful.
+04  Make it private.
+05  Remove everything unnecessary.
+```
+
+The goal isn't to ship more software.
+
+The goal is to build **better software.**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+### THE TOOLKIT
+
+<br>
+
+<img src="https://cdn.simpleicons.org/python/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/typescript/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/javascript/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/react/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/tailwindcss/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/fastapi/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/django/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/django/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/postgresql/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/mongodb/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redis/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/redis/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/docker/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cloudflare/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/cloudflare/eeeeea" height="29">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/ffffff" height="30"/>
+<img src="https://cdn.simpleicons.org/linux/eeeeea" height="29">
 
 <br><br>
 
@@ -114,86 +178,114 @@ PostgreSQL · MongoDB · Redis · Docker · Cloudflare · Linux
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=242424"/>
+---
 
-<br>
+<div align="center">
 
-## GITHUB
+### SIGNAL
 
-<p align="center">
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashShinde024&bg_color=0D0D0D&color=B8B8B8&line=7D7D7D&point=FFFFFF&area=true&area_color=191919&hide_border=true"/>
-</p>
+<sub>A glimpse of the work happening behind the scenes.</sub>
+
+<br><br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashShinde024&bg_color=090909&color=A6A6A0&line=6E6E68&point=F4F4F0&area=true&area_color=151515&hide_border=true&hide_title=true"/>
+
+</div>
 
 <br>
 
 <table align="center">
 <tr>
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashShinde024&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=8C8C8C&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<td align="center">
 
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashShinde024&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=8C8C8C"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YashShinde024&show_icons=true&hide_border=true&bg_color=090909&title_color=F4F4F0&text_color=85857F&icon_color=F4F4F0&ring_color=F4F4F0&include_all_commits=true&count_private=true"/>
 
 </td>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashShinde024&layout=compact&hide_border=true&bg_color=090909&title_color=F4F4F0&text_color=85857F"/>
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<p align="center">
-<img width="92%" src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+
+<img width="96%" src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=242424"/>
-
-<br>
+---
 
 <div align="center">
 
-### LET'S CONNECT
+<sub>CONNECT</sub>
+
+<br><br>
 
 <a href="https://x.com/yash_shinde_024">
-<img src="https://cdn.simpleicons.org/x/ffffff" height="22"/>
+<img src="https://cdn.simpleicons.org/x/F4F4F0" height="23">
 </a>
-&nbsp;&nbsp;&nbsp;
+
+    
+
 <a href="https://github.com/YashShinde024">
-<img src="https://cdn.simpleicons.org/github/ffffff" height="22"/>
+<img src="https://cdn.simpleicons.org/github/F4F4F0" height="23">
 </a>
-&nbsp;&nbsp;&nbsp;
+
+    
+
 <a href="https://linkedin.com/in/yashshinde024">
-<img src="https://cdn.simpleicons.org/linkedin/ffffff" height="22"/>
+<img src="https://cdn.simpleicons.org/linkedin/F4F4F0" height="23">
 </a>
-&nbsp;&nbsp;&nbsp;
+
+    
+
 <a href="https://instagram.com/yash_shinde_024">
-<img src="https://cdn.simpleicons.org/instagram/ffffff" height="22"/>
+<img src="https://cdn.simpleicons.org/instagram/F4F4F0" height="23">
 </a>
-&nbsp;&nbsp;&nbsp;
+
+    
+
 <a href="mailto:yashshinde@nyxen.in">
-<img src="https://cdn.simpleicons.org/gmail/ffffff" height="22"/>
+<img src="https://cdn.simpleicons.org/gmail/F4F4F0" height="23">
 </a>
 
 <br><br>
 
 <a href="https://yashshinde.is-a.dev">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF"/>
-</a>
-
- 
-
-<a href="http://thankyouverymuch.co/yash">
-<img src="https://img.shields.io/badge/SUPPORT%20MY%20WORK-171717?style=for-the-badge&labelColor=171717&color=171717"/>
+<img src="https://img.shields.io/badge/yashshinde.is--a.dev-181818?style=for-the-badge&logo=vercel&logoColor=F4F4F0"/>
 </a>
 
 <br><br>
 
-<sub>NYXEN · YASH SHINDE · 2026</sub>
+<a href="http://thankyouverymuch.co/yash">
+<img src="https://img.shields.io/badge/SUPPORT%20THE%20WORK-181818?style=for-the-badge&color=181818"/>
+</a>
+
+<br><br>
+
+<sub>
+BUILD QUIETLY · SHIP CONSISTENTLY · KEEP RAISING THE BAR
+</sub>
+
+<br><br>
+
+<sub>© 2026 YASH SHINDE · NYXEN</sub>
 
 </div>
 
 <br>
-<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:090909,50:111111,100:090909"/>
+
+</div>
