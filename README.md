@@ -1,24 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,24,30&text=Yash%20Shinde&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Python%20Developer%20%E2%80%A2%20Founder%20at%20Nyxen&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,24,30&text=Yash%20Shinde&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Python%20Developer%20•%20Founder%20at%20Nyxen&descAlignY=58&descSize=18"/>
 
 <br>
 
 <a href="https://yashshinde.is-a.dev">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://nyxen.in">
-<img src="https://img.shields.io/badge/Nyxen-111111?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nyxen-000000?style=for-the-badge"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/YashShinde024">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-<sub>BUILDING PRODUCTS THAT PEOPLE LOVE TO USE.</sub>
 
 </div>
 
@@ -28,9 +24,7 @@
 
 ### Building products that people love.
 
-**Innovate · Build · Empower**
-
-<br>
+### Innovate • Build • Empower
 
 > **"Program your own life with your own codes."**
 
@@ -50,147 +44,130 @@ My goal is simple:
 
 > Build products that people genuinely enjoy using.
 
-Currently, I'm building the **Nyxen ecosystem**, where every product follows the same philosophy:
+Currently, I'm building the **Nyxen ecosystem**, where every product follows the same philosophy—
 
-**Simplicity · Performance · Privacy · Quality**
-
-<br>
-
-<div align="center">
-
-## Tech Stack
+- Simplicity.
+- Performance.
+- Privacy.
+- Quality.
 
 <br>
 
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  Technologies I use to build fast, scalable and privacy-first products.
+Technologies I use to build fast, scalable and privacy-first products.
 </p>
-
-<br>
 
 <div align="center">
 
-<h3>Languages</h3>
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" height="52" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" />
 </p>
 
-<br>
-
-<h3>Frontend</h3>
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="52" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 </p>
 
-<br>
-
-<h3>Backend</h3>
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs&theme=dark" height="52" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs&theme=dark" />
 </p>
 
-<br>
-
-<h3>Databases</h3>
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark&perline=6" height="52" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark" />
 </p>
 
-<br>
-
-<h3>Cloud & DevOps</h3>
+### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,github,linux,vercel,cloudflare&theme=dark" height="52" />
+<img src="https://skillicons.dev/icons?i=docker,github,linux,vercel,cloudflare&theme=dark" />
+<img src="https://img.shields.io/badge/Render-111111?style=flat-square&logo=render&logoColor=white"/>
 </p>
 
 </div>
+
+
 ---
 
 ## Contribution Snake
 
 <p align="center">
 
-<img
-alt="Contribution Snake"
-src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github-contribution-grid-snake-dark.svg"
-/>
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
+## ❤️ Support My Work
+
 <div align="center">
 
-## Support My Work
+If you enjoy my work and would like to support the projects I'm building, I'd truly appreciate it.
 
-<sub>
-If you enjoy my work and would like to support the products I'm building,
-I'd truly appreciate it.
-</sub>
-
-<br><br>
+<br>
 
 <a href="http://thankyouverymuch.co/yash">
-<img src="https://img.shields.io/badge/SUPPORT%20MY%20WORK-111111?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/❤️%20Support%20My%20Work-111111?style=for-the-badge"/>
+
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ====================================================== -->
+<!--                     CONNECT                            -->
+<!-- ====================================================== -->
 
-## Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://x.com/yash_shinde_024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YashShinde024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yashshinde024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/yash_shinde_024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yashshinde@nyxen.in">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
+  </a>
+</p>
 
 <br>
 
-<a href="https://x.com/yash_shinde_024">
-<img src="https://cdn.simpleicons.org/x/ffffff" height="34" alt="X"/>
-</a>
+<h2 align="center">🌐 Portfolio</h2>
 
-    
+<p align="center">
+  <a href="https://yashshinde.is-a.dev">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-yashshinde.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/YashShinde024">
-<img src="https://cdn.simpleicons.org/github/ffffff" height="34" alt="GitHub"/>
-</a>
+<p align="center">
+  <b>Building privacy-first products with modern web technologies.</b>
+</p>
 
-    
-
-<a href="https://www.linkedin.com/in/yashshinde024">
-<img src="https://cdn.simpleicons.org/linkedin/ffffff" height="34" alt="LinkedIn"/>
-</a>
-
-    
-
-<a href="https://instagram.com/yash_shinde_024">
-<img src="https://cdn.simpleicons.org/instagram/ffffff" height="34" alt="Instagram"/>
-</a>
-
-    
-
-<a href="mailto:yashshinde@nyxen.in">
-<img src="https://cdn.simpleicons.org/gmail/ffffff" height="34" alt="Email"/>
-</a>
-
-<br><br>
-
-<a href="https://yashshinde.is-a.dev">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<sub>Building privacy-first products with modern web technologies.</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090909,50:1A1A1A,100:090909"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090909,50:1A1A1A,100:090909"/> 
+ 
+</div> i want this just improve tech tack icons
