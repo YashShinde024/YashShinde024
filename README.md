@@ -1,82 +1,45 @@
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=090909&text=YASH%20SHINDE&font=Inter&fontColor=F4F4F0&fontSize=72&fontAlignY=42&desc=BUILDER%20%2F%2F%20FOUNDER%20%20·%20%20NYXEN&descAlignY=62&descSize=14&animation=fadeIn"/>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<sub>BASED AROUND</sub>
-
-<br>
-
-<b>SOFTWARE</b>
-
-</td>
-
-<td align="center" width="33%">
-
-<sub>BUILDING</sub>
-
-<br>
-
-<b>NYXEN</b>
-
-</td>
-
-<td align="center" width="33%">
-
-<sub>FOCUS</sub>
-
-<br>
-
-<b>PRODUCTS</b>
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:090909,50:111111,100:090909&text=Yash%20Shinde&fontColor=F4F4F0&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Nyxen&descAlignY=57&descSize=17&descColor=A7A7A2"/>
 
 <br>
 
 <a href="https://yashshinde.is-a.dev">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-F4F4F0?style=for-the-badge&labelColor=F4F4F0&color=F4F4F0"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-151515?style=for-the-badge&logo=vercel&logoColor=F4F4F0"/>
 </a>
-
-  
-
+&nbsp;
 <a href="https://nyxen.in">
-<img src="https://img.shields.io/badge/ENTER%20NYXEN-181818?style=for-the-badge&labelColor=181818&color=181818"/>
+<img src="https://img.shields.io/badge/NYXEN-151515?style=for-the-badge&logoColor=F4F4F0"/>
+</a>
+&nbsp;
+<a href="https://github.com/YashShinde024">
+<img src="https://img.shields.io/badge/GITHUB-151515?style=for-the-badge&logo=github&logoColor=F4F4F0"/>
 </a>
 
 <br><br>
 
-<sub>
-FULL STACK PYTHON DEVELOPER · PRODUCT BUILDER · FOUNDER
-</sub>
+<sub>BUILDING DIGITAL PRODUCTS WITH INTENTION.</sub>
+
+<br><br>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-# BUILDING WITH INTENTION.
-
-<p>
-I build software from the first idea to the final pixel.
-<br>
-Systems, interfaces, infrastructure and everything between.
-</p>
+## I BUILD THINGS PEOPLE ENJOY USING.
 
 <br>
 
-**PERFORMANCE**   /   **PRIVACY**   /   **SIMPLICITY**   /   **DETAIL**
+I'm **Yash Shinde**, a Full Stack Python Developer and the founder of **Nyxen**.
+
+I turn ideas into polished products — combining engineering, product thinking,
+performance, privacy, and visual design.
+
+<br>
+
+`BUILD`    `REFINE`    `SHIP`
 
 <br><br>
 
@@ -88,43 +51,15 @@ Systems, interfaces, infrastructure and everything between.
 
 ---
 
-<table>
-<tr>
+## ABOUT
 
-<td width="50%" valign="top">
+I like working across the entire product.
 
-### THE BUILDER
+From architecture and backend systems to interfaces, infrastructure, deployment, and the tiny details that make software feel finished.
 
-I'm **Yash Shinde** — a Full Stack Python Developer and founder of **Nyxen**.
+I am less interested in following trends and more interested in creating products that are **useful, fast, reliable, and beautifully simple.**
 
-I like turning ambitious ideas into products that feel simple on the surface and carefully engineered underneath.
-
-I care about the details most people never notice:
-
-interface rhythm, response time, architecture, reliability, and the feeling a product leaves behind.
-
-</td>
-
-<td width="50%" valign="top">
-
-### THE PHILOSOPHY
-
-```text
-01  Make it useful.
-02  Make it fast.
-03  Make it beautiful.
-04  Make it private.
-05  Remove everything unnecessary.
-```
-
-The goal isn't to ship more software.
-
-The goal is to build **better software.**
-
-</td>
-
-</tr>
-</table>
+My current focus is the **Nyxen ecosystem**.
 
 <br>
 
@@ -132,160 +67,136 @@ The goal is to build **better software.**
 
 <div align="center">
 
-### THE TOOLKIT
+## THE STACK
 
 <br>
 
-<img src="https://cdn.simpleicons.org/python/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/django/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redis/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cloudflare/eeeeea" height="29">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/eeeeea" height="29">
+<img src="https://cdn.simpleicons.org/python/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/django/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cloudflare/F4F4F0" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux/F4F4F0" height="30"/>
 
 <br><br>
 
 <sub>
-Python · TypeScript · JavaScript · React · Next.js · FastAPI · Django · Node.js
+Python · TypeScript · JavaScript · React · Next.js · Tailwind · FastAPI · Django
 <br>
-PostgreSQL · MongoDB · Redis · Docker · Cloudflare · Linux
+Node.js · PostgreSQL · MongoDB · Redis · Docker · Cloudflare · Linux
 </sub>
 
 </div>
 
-<br>
-
----
+<br><br>
 
 <div align="center">
 
-### SIGNAL
-
-<sub>A glimpse of the work happening behind the scenes.</sub>
-
-<br><br>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashShinde024&bg_color=090909&color=A6A6A0&line=6E6E68&point=F4F4F0&area=true&area_color=151515&hide_border=true&hide_title=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=2A2A2A"/>
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashShinde024&show_icons=true&hide_border=true&bg_color=090909&title_color=F4F4F0&text_color=85857F&icon_color=F4F4F0&ring_color=F4F4F0&include_all_commits=true&count_private=true"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashShinde024&layout=compact&hide_border=true&bg_color=090909&title_color=F4F4F0&text_color=85857F"/>
-
-</td>
-
-</tr>
-</table>
+## ACTIVITY
 
 <br>
 
-<div align="center">
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashShinde024&bg_color=090909&color=A6A6A0&line=777772&point=F4F4F0&area=true&area_color=171717&hide_border=true&custom_title="/>
 
-<img width="96%" src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github-contribution-grid-snake-dark.svg"/>
+<br><br>
+
+<img width="94%" src="https://github-readme-stats.vercel.app/api?username=YashShinde024&show_icons=true&hide_border=true&bg_color=090909&title_color=F4F4F0&text_color=8A8A85&icon_color=F4F4F0&ring_color=F4F4F0&include_all_commits=true&count_private=true"/>
+
+<br><br>
+
+<img width="94%" src="https://raw.githubusercontent.com/YashShinde024/YashShinde024/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-<br>
-
----
+<br><br>
 
 <div align="center">
 
-<sub>CONNECT</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=2A2A2A"/>
 
 <br><br>
+
+## LET'S CONNECT
+
+<br>
 
 <a href="https://x.com/yash_shinde_024">
-<img src="https://cdn.simpleicons.org/x/F4F4F0" height="23">
+<img src="https://cdn.simpleicons.org/x/F4F4F0" height="24"/>
 </a>
 
     
 
 <a href="https://github.com/YashShinde024">
-<img src="https://cdn.simpleicons.org/github/F4F4F0" height="23">
+<img src="https://cdn.simpleicons.org/github/F4F4F0" height="24"/>
 </a>
 
     
 
-<a href="https://linkedin.com/in/yashshinde024">
-<img src="https://cdn.simpleicons.org/linkedin/F4F4F0" height="23">
+<a href="https://www.linkedin.com/in/yashshinde024">
+<img src="https://cdn.simpleicons.org/linkedin/F4F4F0" height="24"/>
 </a>
 
     
 
 <a href="https://instagram.com/yash_shinde_024">
-<img src="https://cdn.simpleicons.org/instagram/F4F4F0" height="23">
+<img src="https://cdn.simpleicons.org/instagram/F4F4F0" height="24"/>
 </a>
 
     
 
 <a href="mailto:yashshinde@nyxen.in">
-<img src="https://cdn.simpleicons.org/gmail/F4F4F0" height="23">
+<img src="https://cdn.simpleicons.org/gmail/F4F4F0" height="24"/>
 </a>
 
 <br><br>
 
 <a href="https://yashshinde.is-a.dev">
-<img src="https://img.shields.io/badge/yashshinde.is--a.dev-181818?style=for-the-badge&logo=vercel&logoColor=F4F4F0"/>
+<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-F4F4F0?style=for-the-badge&logo=vercel&logoColor=090909"/>
 </a>
 
 <br><br>
 
 <a href="http://thankyouverymuch.co/yash">
-<img src="https://img.shields.io/badge/SUPPORT%20THE%20WORK-181818?style=for-the-badge&color=181818"/>
+<img src="https://img.shields.io/badge/SUPPORT%20MY%20WORK-151515?style=for-the-badge&logoColor=F4F4F0"/>
 </a>
 
-<br><br>
+<br><br><br>
 
-<sub>
-BUILD QUIETLY · SHIP CONSISTENTLY · KEEP RAISING THE BAR
-</sub>
+<sub>NYXEN · YASH SHINDE · BUILDING QUIETLY, SHIPPING CONSISTENTLY.</sub>
 
 <br><br>
 
-<sub>© 2026 YASH SHINDE · NYXEN</sub>
-
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:090909,50:111111,100:090909"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090909,50:111111,100:090909"/>
