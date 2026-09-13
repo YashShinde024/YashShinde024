@@ -2,7 +2,7 @@
 
 <!-- Animated Hero -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A5CFF,50:8B5CF6,100:00D4FF&text=Yash%20Shinde&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A5CFF,50:8B5CF6,100:00D4FF&text=Yash%20Shinde&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack-Python%20Developer%20%7C%20Founder%20%7C%20Creator&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
